@@ -1,7 +1,7 @@
 Source: byte-php54-opcache
 Section: web
 Priority: optional
-Maintainer: Byte Internet (support@byte.nl)
+Maintainer: Byte Internet <support@byte.nl>
 Build-Depends: debhelper (>= 7), php5-dev
 
 Package: byte-php54-opcache
