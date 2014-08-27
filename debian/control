@@ -1,11 +1,11 @@
-Source: php5-opcache
+Source: byte-php55-opcache
 Section: web
 Priority: optional
 Maintainer: Byte Internet <support@byte.nl>
 Standards-Version: 7.0.3
-Build-Depends: debhelper (>= 7), php5-dev
+Build-Depends: debhelper (>= 7), byte-php55-dev
 
-Package: php5-opcache
+Package: byte-php55-opcache
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Recommends: php5
