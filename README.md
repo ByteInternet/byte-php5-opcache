@@ -4,5 +4,5 @@
 
 build command:
 ```
-git-buildpackage --git-pbuilder --git-dist=wheezy --git-arch=amd64 --git-debian-branch={branch}
+git-buildpackage --git-pbuilder --git-dist=wheezy --git-arch=amd64 --git-upstream-tag=upstream --git-debian-branch={branch}
 ```
