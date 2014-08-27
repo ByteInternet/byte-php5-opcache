@@ -1,0 +1,12 @@
+Source: php5-opcache
+Section: web
+Priority: optional
+Maintainer: Byte Internet <support@byte.nl>
+Standards-Version: 7.0.3
+Build-Depends: debhelper (>= 7), php5-dev
+
+Package: php5-opcache
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Recommends: php5
+Description: PHP Zend Opcache 

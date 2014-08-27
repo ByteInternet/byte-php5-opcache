@@ -1,0 +1,5 @@
+php5-opcache (7.0.3) unstable; urgency=low
+
+  * Debianize Opcache
+
+ -- Tim Muller <tim@byte.nl>  Tue, 12 Aug 2014 16:02:06 +0200
